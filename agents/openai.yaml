@@ -1,0 +1,4 @@
+interface:
+  display_name: "CILRAP/FICHL 检索"
+  short_description: "有界爬取 CILRAP 主站与 FICHL 板块"
+  default_prompt: "使用 $CILRAPSearcher 做 CILRAP/FICHL 有界检索；报告 pages_attempted、queued_unvisited 和 exhaustive=false，不要声称全站覆盖。"
