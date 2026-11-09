@@ -2,7 +2,7 @@
 
 独立检索 CILRAP 公共网站及其 FICHL 板块。只访问 `www.cilrap.org`。
 
-仓库：<https://github.com/HuiwowICCSkills/CILRAPSearcher>（私有）。
+仓库：<https://github.com/HuiwowICCSkills/CILRAPSearcher>（公开）。
 
 ## 环境
 
