@@ -2,7 +2,7 @@
 
 独立检索 CILRAP 公共网站及其 FICHL 板块。只访问 `www.cilrap.org`。
 
-仓库：<https://github.com/GDUFSICCSkills/CILRAPSearcher>（私有）。
+仓库：<https://github.com/HuiwowICCSkills/CILRAPSearcher>（私有）。
 
 ## 环境
 
@@ -11,7 +11,7 @@ Python 3.10+，依赖 `requests`、`beautifulsoup4`、`pypdf`；无需登录。
 ## 安装与自检
 
 ```powershell
-git clone https://github.com/GDUFSICCSkills/CILRAPSearcher.git "$env:USERPROFILE\.codex\skills\CILRAPSearcher"
+git clone https://github.com/HuiwowICCSkills/CILRAPSearcher.git "$env:USERPROFILE\.codex\skills\CILRAPSearcher"
 python -m pip install -r "$env:USERPROFILE\.codex\skills\CILRAPSearcher\requirements.txt"
 & "$env:USERPROFILE\.codex\skills\CILRAPSearcher\run.ps1" doctor
 ```
